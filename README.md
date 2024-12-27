@@ -1,2 +1,2 @@
-# tejakamesh_portfolio.github.io
+# JyothiSridharTammana_Portfolio.github.io
 This is my Portfolio
